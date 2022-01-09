@@ -839,28 +839,28 @@
         "value": "#AD0C33",
         "type": "color"
       }
-    }
-  },
-  "gradient": {
-    "purple": {
-      "value": "linear-gradient(55deg, #998AEB 0%, #B18CE5 100%)",
-      "type": "color"
     },
-    "sunnymorning": {
-      "value": "linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%)",
-      "type": "color"
-    },
-    "colorpop": {
-      "value": "linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%)",
-      "type": "color"
-    },
-    "sunrise": {
-      "value": "linear-gradient(90deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%)",
-      "type": "color"
-    },
-    "black": {
-      "value": "linear-gradient(90deg, #00000000 0%, #00000080 99.11%)",
-      "type": "color"
+    "gradient": {
+      "purple": {
+        "value": "linear-gradient(55deg, #998AEB 0%, #B18CE5 100%)",
+        "type": "color"
+      },
+      "sunnymorning": {
+        "value": "linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%)",
+        "type": "color"
+      },
+      "colorpop": {
+        "value": "linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%)",
+        "type": "color"
+      },
+      "sunrise": {
+        "value": "linear-gradient(90deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%)",
+        "type": "color"
+      },
+      "black": {
+        "value": "linear-gradient(90deg, #00000000 0%, #00000080 99.11%)",
+        "type": "color"
+      }
     }
   },
   "elevation": {
