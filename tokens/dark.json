@@ -23,15 +23,15 @@
       "type": "color"
     },
     "200": {
-      "value": "#F7F6F9",
-      "type": "color"
-    },
-    "300": {
       "value": "#E4E1EB",
       "type": "color"
     },
+    "300": {
+      "value": "#D4CEDF",
+      "type": "color"
+    },
     "400": {
-      "value": "#CEC8DB",
+      "value": "#C9C2D6",
       "type": "color"
     }
   },
