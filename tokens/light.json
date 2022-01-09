@@ -1,19 +1,19 @@
 {
   "surface": {
     "100": {
-      "value": "#FFFFFF",
+      "value": "#C9C2D6",
       "type": "color"
     },
     "200": {
-      "value": "#F7F6F9",
+      "value": "#D9D5E3",
       "type": "color"
     },
     "300": {
-      "value": "#D4CEDF",
+      "value": "#F7F6F9",
       "type": "color"
     },
     "400": {
-      "value": "#C9C2D6",
+      "value": "#FFFFFF",
       "type": "color"
     }
   },
