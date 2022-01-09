@@ -1,12 +1,12 @@
 .light-theme {
   --surface-100: #FFFFFF;
-  --surface-200: #EFEDF3;
+  --surface-200: #F7F6F9;
   --surface-300: #D9D5E3;
   --surface-400: #CEC8DB;
   --onsurface-100: #0A0A0C;
   --onsurface-200: #212128;
-  --onsurface-300: #C3BCD2;
-  --onsurface-400: #D9D5E3;
+  --onsurface-300: #3F3F4C;
+  --onsurface-400: #C3BCD2;
   --accent-100: #774BDB;
   --accent-200: #5627C2;
   --accent-300: #4B22A9;
