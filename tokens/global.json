@@ -271,321 +271,323 @@
       "type": "letterSpacing"
     }
   },
-  "headlines": {
-    "level01": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
+  "typography": {
+    "headlines": {
+      "level01": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 96
+        },
+        "fontSize": {
+          "value": 80
+        },
+        "letterSpacing": {
+          "value": "-2%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "fontWeight": {
-        "value": "Bold"
+      "level02": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 68
+        },
+        "fontSize": {
+          "value": 56
+        },
+        "letterSpacing": {
+          "value": "-1%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "lineHeight": {
-        "value": 96
+      "level03": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 56
+        },
+        "fontSize": {
+          "value": 40
+        },
+        "letterSpacing": {
+          "value": "-1%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "fontSize": {
-        "value": 80
+      "level04": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 44
+        },
+        "fontSize": {
+          "value": 28
+        },
+        "letterSpacing": {
+          "value": "-1%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "letterSpacing": {
-        "value": "-2%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
+      "level05": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 32
+        },
+        "fontSize": {
+          "value": 24
+        },
+        "letterSpacing": {
+          "value": "-1%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.0a$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       }
     },
-    "level02": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
+    "bodytext": {
+      "large": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Medium"
+        },
+        "lineHeight": {
+          "value": 32
+        },
+        "fontSize": {
+          "value": 20
+        },
+        "letterSpacing": {
+          "value": "4%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "fontWeight": {
-        "value": "Bold"
+      "medium": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Medium"
+        },
+        "lineHeight": {
+          "value": 24
+        },
+        "fontSize": {
+          "value": 16
+        },
+        "letterSpacing": {
+          "value": "4%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "lineHeight": {
-        "value": 68
+      "small": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Medium"
+        },
+        "lineHeight": {
+          "value": 24
+        },
+        "fontSize": {
+          "value": 14
+        },
+        "letterSpacing": {
+          "value": "4%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       },
-      "fontSize": {
-        "value": 56
-      },
-      "letterSpacing": {
-        "value": "-1%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
+      "tiny": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Medium"
+        },
+        "lineHeight": {
+          "value": 20
+        },
+        "fontSize": {
+          "value": 12
+        },
+        "letterSpacing": {
+          "value": "4%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "none"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       }
     },
-    "level03": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Bold"
-      },
-      "lineHeight": {
-        "value": 56
-      },
-      "fontSize": {
-        "value": 40
-      },
-      "letterSpacing": {
-        "value": "-1%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "level04": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Bold"
-      },
-      "lineHeight": {
-        "value": 44
-      },
-      "fontSize": {
-        "value": 28
-      },
-      "letterSpacing": {
-        "value": "-1%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "level05": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Bold"
-      },
-      "lineHeight": {
-        "value": 32
-      },
-      "fontSize": {
-        "value": 24
-      },
-      "letterSpacing": {
-        "value": "-1%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.0a$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    }
-  },
-  "bodytext": {
-    "large": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Medium"
-      },
-      "lineHeight": {
-        "value": 32
-      },
-      "fontSize": {
-        "value": 20
-      },
-      "letterSpacing": {
-        "value": "4%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "medium": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Medium"
-      },
-      "lineHeight": {
-        "value": 24
-      },
-      "fontSize": {
-        "value": 16
-      },
-      "letterSpacing": {
-        "value": "4%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "small": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Medium"
-      },
-      "lineHeight": {
-        "value": 24
-      },
-      "fontSize": {
-        "value": 14
-      },
-      "letterSpacing": {
-        "value": "4%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "tiny": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Medium"
-      },
-      "lineHeight": {
-        "value": 20
-      },
-      "fontSize": {
-        "value": 12
-      },
-      "letterSpacing": {
-        "value": "4%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "none"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    }
-  },
-  "labels": {
-    "lg": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Bold"
-      },
-      "lineHeight": {
-        "value": 28
-      },
-      "fontSize": {
-        "value": 16
-      },
-      "letterSpacing": {
-        "value": "12%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "uppercase"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "md": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Bold"
-      },
-      "lineHeight": {
-        "value": 24
-      },
-      "fontSize": {
-        "value": 14
-      },
-      "letterSpacing": {
-        "value": "12%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "uppercase"
-      },
-      "textDecoration": {
-        "value": "none"
-      }
-    },
-    "sm": {
-      "fontFamily": {
-        "value": "Suisse Int'l"
-      },
-      "fontWeight": {
-        "value": "Bold"
-      },
-      "lineHeight": {
-        "value": 20
-      },
-      "fontSize": {
-        "value": 12
-      },
-      "letterSpacing": {
-        "value": "12%"
-      },
-      "paragraphSpacing": {
-        "value": "$paragraphSpacing.none"
-      },
-      "textCase": {
-        "value": "uppercase"
-      },
-      "textDecoration": {
-        "value": "none"
+    "labels": {
+      "lg": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 28
+        },
+        "fontSize": {
+          "value": 16
+        },
+        "letterSpacing": {
+          "value": "12%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "uppercase"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
+      },
+      "md": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 24
+        },
+        "fontSize": {
+          "value": 14
+        },
+        "letterSpacing": {
+          "value": "12%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "uppercase"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
+      },
+      "sm": {
+        "fontFamily": {
+          "value": "Suisse Int'l"
+        },
+        "fontWeight": {
+          "value": "Bold"
+        },
+        "lineHeight": {
+          "value": 20
+        },
+        "fontSize": {
+          "value": 12
+        },
+        "letterSpacing": {
+          "value": "12%"
+        },
+        "paragraphSpacing": {
+          "value": "$paragraphSpacing.none"
+        },
+        "textCase": {
+          "value": "uppercase"
+        },
+        "textDecoration": {
+          "value": "none"
+        }
       }
     }
   },
