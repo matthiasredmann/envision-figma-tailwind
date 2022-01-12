@@ -360,7 +360,7 @@
       }
     },
     "bodytext": {
-      "large": {
+      "lg": {
         "fontFamily": {
           "value": "Suisse Int'l"
         },
@@ -377,7 +377,7 @@
           "value": "4%"
         }
       },
-      "medium": {
+      "md": {
         "fontFamily": {
           "value": "Suisse Int'l"
         },
@@ -394,7 +394,7 @@
           "value": "4%"
         }
       },
-      "small": {
+      "sm": {
         "fontFamily": {
           "value": "Suisse Int'l"
         },
@@ -411,7 +411,7 @@
           "value": "4%"
         }
       },
-      "tiny": {
+      "xs": {
         "fontFamily": {
           "value": "Suisse Int'l"
         },
