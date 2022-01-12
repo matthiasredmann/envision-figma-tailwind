@@ -162,8 +162,8 @@
     }
   },
   "fontFamilies": {
-    "suisse-intl": {
-      "value": "Suisse Int'l",
+    "bevietnampro": {
+      "value": "Be Vietnam Pro",
       "type": "fontFamilies"
     }
   },
@@ -206,12 +206,16 @@
     }
   },
   "fontWeights": {
-    "bold": {
-      "value": "Bold",
+    "extrabold": {
+      "value": "ExtraBold",
       "type": "fontWeights"
     },
     "medium": {
       "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
       "type": "fontWeights"
     }
   },
@@ -275,10 +279,10 @@
     "headlines": {
       "level01": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "96px"
@@ -292,10 +296,10 @@
       },
       "level02": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "68px"
@@ -309,10 +313,10 @@
       },
       "level03": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "56px"
@@ -326,7 +330,7 @@
       },
       "level04": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Bold"
@@ -343,7 +347,7 @@
       },
       "level05": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Bold"
@@ -362,7 +366,7 @@
     "bodytext": {
       "lg": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Medium"
@@ -379,7 +383,7 @@
       },
       "md": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Medium"
@@ -396,7 +400,7 @@
       },
       "sm": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Medium"
@@ -413,7 +417,7 @@
       },
       "xs": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Medium"
@@ -432,7 +436,7 @@
     "labels": {
       "lg": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Bold"
@@ -449,7 +453,7 @@
       },
       "md": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Bold"
@@ -466,7 +470,7 @@
       },
       "sm": {
         "fontFamily": {
-          "value": "Suisse Int'l"
+          "value": "Be Vietnam Pro"
         },
         "fontWeight": {
           "value": "Bold"
