@@ -288,15 +288,6 @@
         },
         "letterSpacing": {
           "value": "-2%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "level02": {
@@ -314,15 +305,6 @@
         },
         "letterSpacing": {
           "value": "-1%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "level03": {
@@ -340,15 +322,6 @@
         },
         "letterSpacing": {
           "value": "-1%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "level04": {
@@ -366,15 +339,6 @@
         },
         "letterSpacing": {
           "value": "-1%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "level05": {
@@ -392,15 +356,6 @@
         },
         "letterSpacing": {
           "value": "-1%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       }
     },
@@ -420,15 +375,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "medium": {
@@ -446,15 +392,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "small": {
@@ -472,15 +409,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "tiny": {
@@ -498,15 +426,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       }
     },
@@ -526,15 +445,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "md": {
@@ -552,15 +462,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       },
       "sm": {
@@ -578,15 +479,6 @@
         },
         "letterSpacing": {
           "value": "4%"
-        },
-        "paragraphSpacing": {
-          "value": 0
-        },
-        "textCase": {
-          "value": 0
-        },
-        "textDecoration": {
-          "value": 0
         }
       }
     }
