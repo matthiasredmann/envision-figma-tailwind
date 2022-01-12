@@ -525,13 +525,13 @@
           "value": 16
         },
         "letterSpacing": {
-          "value": "12%"
+          "value": "4%"
         },
         "paragraphSpacing": {
           "value": "$paragraphSpacing.none"
         },
         "textCase": {
-          "value": "uppercase"
+          "value": "none"
         },
         "textDecoration": {
           "value": "none"
@@ -551,13 +551,13 @@
           "value": 14
         },
         "letterSpacing": {
-          "value": "12%"
+          "value": "4%"
         },
         "paragraphSpacing": {
           "value": "$paragraphSpacing.none"
         },
         "textCase": {
-          "value": "uppercase"
+          "value": "none"
         },
         "textDecoration": {
           "value": "none"
@@ -577,13 +577,13 @@
           "value": 12
         },
         "letterSpacing": {
-          "value": "12%"
+          "value": "4%"
         },
         "paragraphSpacing": {
           "value": "$paragraphSpacing.none"
         },
         "textCase": {
-          "value": "uppercase"
+          "value": "none"
         },
         "textDecoration": {
           "value": "none"
