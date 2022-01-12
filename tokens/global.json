@@ -267,7 +267,7 @@
       "type": "letterSpacing"
     },
     "md": {
-      "value": "4%",
+      "value": "2%",
       "type": "letterSpacing"
     },
     "lg": {
@@ -378,7 +378,7 @@
           "value": "20px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       },
       "md": {
@@ -395,7 +395,7 @@
           "value": "16px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       },
       "sm": {
@@ -412,7 +412,7 @@
           "value": "14px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       },
       "xs": {
@@ -429,7 +429,7 @@
           "value": "12px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       }
     },
@@ -448,7 +448,7 @@
           "value": "16px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       },
       "md": {
@@ -465,7 +465,7 @@
           "value": "14px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       },
       "sm": {
@@ -482,7 +482,7 @@
           "value": "12px"
         },
         "letterSpacing": {
-          "value": "4%"
+          "value": "2%"
         }
       }
     }
