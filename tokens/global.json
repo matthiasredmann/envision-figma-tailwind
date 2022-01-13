@@ -211,7 +211,7 @@
       "type": "fontWeights"
     },
     "bold": {
-      "value": "Bold",
+      "value": "ExtraBold",
       "type": "fontWeights"
     }
   },
@@ -278,7 +278,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "96px"
@@ -292,7 +292,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "68px"
@@ -306,7 +306,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "56px"
@@ -320,7 +320,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "44px"
@@ -334,7 +334,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "32px"
@@ -408,7 +408,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "28px"
@@ -422,7 +422,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "24px"
@@ -436,7 +436,7 @@
           "value": "Roboto"
         },
         "fontWeight": {
-          "value": "Bold"
+          "value": "ExtraBold"
         },
         "lineHeight": {
           "value": "20px"
