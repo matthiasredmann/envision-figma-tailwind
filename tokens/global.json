@@ -162,8 +162,8 @@
     }
   },
   "fontFamilies": {
-    "bevietnampro": {
-      "value": "Be Vietnam Pro",
+    "brand": {
+      "value": "Roboto",
       "type": "fontFamilies"
     }
   },
@@ -206,10 +206,6 @@
     }
   },
   "fontWeights": {
-    "extrabold": {
-      "value": "ExtraBold",
-      "type": "fontWeights"
-    },
     "medium": {
       "value": "Medium",
       "type": "fontWeights"
@@ -279,58 +275,49 @@
     "headlines": {
       "level01": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
-          "value": "ExtraBold"
+          "value": "Bold"
         },
         "lineHeight": {
           "value": "96px"
         },
         "fontSize": {
           "value": "80px"
-        },
-        "letterSpacing": {
-          "value": "-2%"
         }
       },
       "level02": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
-          "value": "ExtraBold"
+          "value": "Bold"
         },
         "lineHeight": {
           "value": "68px"
         },
         "fontSize": {
           "value": "56px"
-        },
-        "letterSpacing": {
-          "value": "-1%"
         }
       },
       "level03": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
-          "value": "ExtraBold"
+          "value": "Bold"
         },
         "lineHeight": {
           "value": "56px"
         },
         "fontSize": {
           "value": "40px"
-        },
-        "letterSpacing": {
-          "value": "-1%"
         }
       },
       "level04": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Bold"
@@ -340,14 +327,11 @@
         },
         "fontSize": {
           "value": "28px"
-        },
-        "letterSpacing": {
-          "value": "-1%"
         }
       },
       "level05": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Bold"
@@ -357,16 +341,13 @@
         },
         "fontSize": {
           "value": "24px"
-        },
-        "letterSpacing": {
-          "value": "-1%"
         }
       }
     },
     "bodytext": {
       "lg": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Medium"
@@ -376,14 +357,11 @@
         },
         "fontSize": {
           "value": "20px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       },
       "md": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Medium"
@@ -393,14 +371,11 @@
         },
         "fontSize": {
           "value": "16px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       },
       "sm": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Medium"
@@ -410,14 +385,11 @@
         },
         "fontSize": {
           "value": "14px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       },
       "xs": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Medium"
@@ -427,16 +399,13 @@
         },
         "fontSize": {
           "value": "12px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       }
     },
     "labels": {
       "lg": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Bold"
@@ -446,14 +415,11 @@
         },
         "fontSize": {
           "value": "16px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       },
       "md": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Bold"
@@ -463,14 +429,11 @@
         },
         "fontSize": {
           "value": "14px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       },
       "sm": {
         "fontFamily": {
-          "value": "Be Vietnam Pro"
+          "value": "Roboto"
         },
         "fontWeight": {
           "value": "Bold"
@@ -480,9 +443,6 @@
         },
         "fontSize": {
           "value": "12px"
-        },
-        "letterSpacing": {
-          "value": "2%"
         }
       }
     }
