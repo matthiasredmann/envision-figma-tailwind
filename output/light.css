@@ -72,7 +72,6 @@
   --emphasis-medium: 60%;
   --emphasis-low: 30%;
   --emphasis-subtle: 20%;
-  --radii-none: 0px;
   --radii-xs: 4px;
   --radii-sm: 8px;
   --radii-md: 16px;
@@ -80,7 +79,6 @@
   --radii-xl: 32px;
   --radii-full: 999px;
   --radii-2xl: 44px;
-  --border-width-none: 0px;
   --border-width-xs: 1px;
   --border-width-sm: 2px;
   --font-families-brand: Roboto;
