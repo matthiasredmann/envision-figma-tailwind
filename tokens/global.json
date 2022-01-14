@@ -686,7 +686,7 @@
         "type": "color"
       },
       "colorpop": {
-        "value": "linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%)",
+        "value": "linear-gradient(152deg, #f5e6b8ff 0%, #ffce70ff 27%, #eba06aff 52%, #c084efff 79%, #8eadfeff 100%)",
         "type": "color"
       },
       "sunrise": {
