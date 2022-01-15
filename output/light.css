@@ -44,7 +44,7 @@
   --uicolor-gradient-sunnymorning: linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%);
   --uicolor-gradient-purple: linear-gradient(55deg, #998AEB 0%, #B18CE5 100%);
   --uicolor-gradient-colorpop: linear-gradient(152deg, #f5e6b8ff 0%, #ffce70ff 27%, #eba06aff 52%, #c084efff 79%, #8eadfeff 100%);
-  --uicolor-gradient-black: linear-gradient(90deg, #00000000 0%, #00000080 99.11%);
+  --uicolor-gradient-black: linear-gradient(180deg, #00000000 0%, #00000080 100%);
   --space-xxs: 4px;
   --space-xs: 8px;
   --space-sm: 12px;
@@ -212,7 +212,7 @@
   --colors-gradient-sunnymorning: linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%);
   --colors-gradient-colorpop: linear-gradient(152deg, #f5e6b8ff 0%, #ffce70ff 27%, #eba06aff 52%, #c084efff 79%, #8eadfeff 100%);
   --colors-gradient-sunrise: linear-gradient(90deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%);
-  --colors-gradient-black: linear-gradient(90deg, #00000000 0%, #00000080 99.11%);
+  --colors-gradient-black: linear-gradient(180deg, #00000000 0%, #00000080 100%);
   --elevation-sm: [object Object];
   --elevation-md: [object Object];
   --elevation-lg: [object Object];
