@@ -686,7 +686,7 @@
         "type": "color"
       },
       "black": {
-        "value": "linear-gradient(180deg, #00000026 0%, #00000099 100%);",
+        "value": "linear-gradient(180deg, #00000026 0%, #00000099 100%)",
         "type": "color"
       }
     }
