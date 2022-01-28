@@ -25,12 +25,12 @@
   --interaction-onprimary-pressed: #FFFFFF;
   --interaction-onprimary-disabled: #D4CEDF;
   --interaction-secondary-initial: #FFFFFF;
-  --interaction-secondary-hover: #F7F6F9;
-  --interaction-secondary-pressed: #EFEDF3;
+  --interaction-secondary-hover: #EFEDF3;
+  --interaction-secondary-pressed: #E4E1EB;
   --interaction-secondary-disabled: #D4CEDF;
   --interaction-onsecondary-initial: #FFFFFF;
-  --interaction-onsecondary-hover: #F7F6F9;
-  --interaction-onsecondary-pressed: #EFEDF3;
+  --interaction-onsecondary-hover: #EFEDF3;
+  --interaction-onsecondary-pressed: #E4E1EB;
   --interaction-onsecondary-disabled: #D4CEDF;
   --uicolor-dark-100: #0A0A0C;
   --uicolor-dark-200: #212128;

@@ -130,11 +130,11 @@
         "type": "color"
       },
       "hover": {
-        "value": "#F7F6F9",
+        "value": "#EFEDF3",
         "type": "color"
       },
       "pressed": {
-        "value": "#EFEDF3",
+        "value": "#E4E1EB",
         "type": "color"
       },
       "disabled": {
@@ -148,11 +148,11 @@
         "type": "color"
       },
       "hover": {
-        "value": "#F7F6F9",
+        "value": "#EFEDF3",
         "type": "color"
       },
       "pressed": {
-        "value": "#EFEDF3",
+        "value": "#E4E1EB",
         "type": "color"
       },
       "disabled": {
