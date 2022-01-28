@@ -37,15 +37,15 @@
   },
   "accent": {
     "100": {
-      "value": "#774BDB",
+      "value": "#4A3DBC",
       "type": "color"
     },
     "200": {
-      "value": "#5627C2",
+      "value": "#3C3299",
       "type": "color"
     },
     "300": {
-      "value": "#4B22A9",
+      "value": "#2A236B",
       "type": "color"
     }
   },
@@ -90,15 +90,15 @@
   "interaction": {
     "primary": {
       "initial": {
-        "value": "#774BDB",
+        "value": "#4A3DBC",
         "type": "color"
       },
       "hover": {
-        "value": "#774BDB",
+        "value": "#4A3DBC",
         "type": "color"
       },
       "pressed": {
-        "value": "#6431D6",
+        "value": "#453AB0",
         "type": "color"
       },
       "disabled": {
