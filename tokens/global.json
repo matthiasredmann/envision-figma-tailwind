@@ -155,7 +155,7 @@
   },
   "fontFamilies": {
     "brand": {
-      "value": "Roboto",
+      "value": "Suisse Int'l",
       "type": "fontFamilies"
     }
   },
@@ -203,7 +203,7 @@
       "type": "fontWeights"
     },
     "bold": {
-      "value": "ExtraBold",
+      "value": "Bold",
       "type": "fontWeights"
     }
   },
@@ -267,8 +267,8 @@
     "headlines": {
       "level01": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "96px",
           "fontSize": "80px"
         },
@@ -276,8 +276,8 @@
       },
       "level02": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "68px",
           "fontSize": "56px"
         },
@@ -285,8 +285,8 @@
       },
       "level03": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "56px",
           "fontSize": "40px"
         },
@@ -294,8 +294,8 @@
       },
       "level04": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "40px",
           "fontSize": "28px"
         },
@@ -303,8 +303,8 @@
       },
       "level05": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "32px",
           "fontSize": "24px"
         },
@@ -314,7 +314,7 @@
     "bodytext": {
       "lg": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Suisse Int'l",
           "fontWeight": "Medium",
           "lineHeight": "32px",
           "fontSize": "20px"
@@ -323,7 +323,7 @@
       },
       "md": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Suisse Int'l",
           "fontWeight": "Medium",
           "lineHeight": "24px",
           "fontSize": "16px"
@@ -333,7 +333,7 @@
       },
       "sm": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Suisse Int'l",
           "fontWeight": "Medium",
           "lineHeight": "24px",
           "fontSize": "14px"
@@ -342,7 +342,7 @@
       },
       "xs": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Suisse Int'l",
           "fontWeight": "Medium",
           "lineHeight": "20px",
           "fontSize": "12px"
@@ -353,8 +353,8 @@
     "labels": {
       "lg": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "28px",
           "fontSize": "16px"
         },
@@ -362,8 +362,8 @@
       },
       "md": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "24px",
           "fontSize": "14px"
         },
@@ -371,8 +371,8 @@
       },
       "sm": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontWeight": "ExtraBold",
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
           "lineHeight": "20px",
           "fontSize": "12px"
         },
