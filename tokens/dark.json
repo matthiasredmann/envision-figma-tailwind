@@ -200,7 +200,7 @@
     },
     "gradient": {
       "sunrise": {
-        "value": "linear-gradient(90deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%)",
+        "value": "linear-gradient(180deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%)",
         "type": "color"
       },
       "sunnymorning": {

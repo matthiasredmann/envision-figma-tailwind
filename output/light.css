@@ -40,7 +40,7 @@
   --uicolor-light-200: #EFEDF3;
   --uicolor-light-300: #D4CEDF;
   --uicolor-light-400: #C3BCD2;
-  --uicolor-gradient-sunrise: linear-gradient(90deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%);
+  --uicolor-gradient-sunrise: linear-gradient(180deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%);
   --uicolor-gradient-sunnymorning: linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%);
   --uicolor-gradient-purple: linear-gradient(104.02deg, #867BFF 0%, #7658CE 100%);
   --uicolor-gradient-colorpop: linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%);
