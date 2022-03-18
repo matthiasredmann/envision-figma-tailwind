@@ -130,15 +130,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "#F9F9F9",
+        "value": "#D5D2D5",
         "type": "color"
       },
       "pressed": {
-        "value": "#EEEDEE",
+        "value": "#CBC8CB",
         "type": "color"
       },
       "disabled": {
-        "value": "#D5D2D5",
+        "value": "#CBC8CB",
         "type": "color"
       }
     },
@@ -148,15 +148,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "#F9F9F9",
+        "value": "#D5D2D5",
         "type": "color"
       },
       "pressed": {
-        "value": "#EEEDEE",
+        "value": "#CBC8CB",
         "type": "color"
       },
       "disabled": {
-        "value": "#D5D2D5",
+        "value": "#CBC8CB",
         "type": "color"
       }
     }
