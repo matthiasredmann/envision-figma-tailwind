@@ -205,11 +205,11 @@
         "type": "color"
       },
       "sunnymorning": {
-        "value": "linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%)",
+        "value": "linear-gradient(120deg, #FFE3BE 13.4%, #F5C9D8 36.76%, #D6BCE4 61.97%, #B8AFFA 86.6%)",
         "type": "color"
       },
       "purple": {
-        "value": "linear-gradient(104.02deg, #867BFF 0%, #7658CE 100%)",
+        "value": "linear-gradient(126.47deg, #CDCFFF 0%, #D4BFFF 99.67%)",
         "type": "color"
       },
       "colorpop": {
