@@ -23,11 +23,11 @@
       "type": "color"
     },
     "200": {
-      "value": "#EFEDF3",
+      "value": "#F9F9F9",
       "type": "color"
     },
     "300": {
-      "value": "#C3BCD2",
+      "value": "#CBC8CB",
       "type": "color"
     },
     "400": {
@@ -120,7 +120,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "#D4CEDF",
+        "value": "#E6E5E6",
         "type": "color"
       }
     },
@@ -130,15 +130,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "#F7F6F9",
+        "value": "#FDFDFD",
         "type": "color"
       },
       "pressed": {
-        "value": "#EFEDF3",
+        "value": "#F9F9F9",
         "type": "color"
       },
       "disabled": {
-        "value": "#D4CEDF",
+        "value": "#E6E5E6",
         "type": "color"
       }
     },
@@ -148,15 +148,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "#F7F6F9",
+        "value": "#FDFDFD",
         "type": "color"
       },
       "pressed": {
-        "value": "#EFEDF3",
+        "value": "#F9F9F9",
         "type": "color"
       },
       "disabled": {
-        "value": "#D4CEDF",
+        "value": "#E6E5E6",
         "type": "color"
       }
     }
@@ -186,15 +186,15 @@
         "type": "color"
       },
       "200": {
-        "value": "#EFEDF3",
+        "value": "#F9F9F9",
         "type": "color"
       },
       "300": {
-        "value": "#D4CEDF",
+        "value": "#E6E5E6",
         "type": "color"
       },
       "400": {
-        "value": "#C3BCD2",
+        "value": "#CBC8CB",
         "type": "color"
       }
     },
