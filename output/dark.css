@@ -25,13 +25,13 @@
   --interaction-onprimary-pressed: #FFFFFF;
   --interaction-onprimary-disabled: #E6E5E6;
   --interaction-secondary-initial: #FFFFFF;
-  --interaction-secondary-hover: #FDFDFD;
-  --interaction-secondary-pressed: #F9F9F9;
-  --interaction-secondary-disabled: #E6E5E6;
+  --interaction-secondary-hover: #F9F9F9;
+  --interaction-secondary-pressed: #EEEDEE;
+  --interaction-secondary-disabled: #D5D2D5;
   --interaction-onsecondary-initial: #FFFFFF;
-  --interaction-onsecondary-hover: #FDFDFD;
-  --interaction-onsecondary-pressed: #F9F9F9;
-  --interaction-onsecondary-disabled: #E6E5E6;
+  --interaction-onsecondary-hover: #F9F9F9;
+  --interaction-onsecondary-pressed: #EEEDEE;
+  --interaction-onsecondary-disabled: #D5D2D5;
   --uicolor-dark-100: #0A0A0C;
   --uicolor-dark-200: #212128;
   --uicolor-dark-300: #31313B;
@@ -42,7 +42,7 @@
   --uicolor-light-400: #CBC8CB;
   --uicolor-gradient-sunrise: linear-gradient(180deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%);
   --uicolor-gradient-sunnymorning: linear-gradient(120deg, #F1CA98 0%, #E7BDCB 31.92%, #C0A1D1 66.35%, #857CC8 100%);
-  --uicolor-gradient-purple: linear-gradient(104.02deg, #3F34B4 8.76%, #4C2EA3 91.24%);
+  --uicolor-gradient-purple: linear-gradient(126.63deg, #2C2297 0%, #4E1A82 99.34%);
   --uicolor-gradient-colorpop: linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%);
   --uicolor-gradient-black: linear-gradient(180deg, #00000027 0%, #00000099 100%);
 }
