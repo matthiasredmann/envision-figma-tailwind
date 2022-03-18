@@ -16,9 +16,9 @@
   --information-onwarning-100: #18181D;
   --information-error-100: #F34B73;
   --information-onerror-100: #FFFFFF;
-  --interaction-primary-initial: #5246C2;
-  --interaction-primary-hover: #4A3DBC;
-  --interaction-primary-pressed: #453AB0;
+  --interaction-primary-initial: linear-gradient(265.91deg, #B08CE5 8.58%, #6D86F4 93.33%);
+  --interaction-primary-hover: linear-gradient(265.91deg, #9E7DCE 8.58%, #697FE2 93.33%);
+  --interaction-primary-pressed: linear-gradient(265.91deg, #876AB3 8.58%, #5568BC 93.33%);
   --interaction-primary-disabled: #424250;
   --interaction-onprimary-initial: #FFFFFF;
   --interaction-onprimary-hover: #FFFFFF;
@@ -41,8 +41,8 @@
   --uicolor-light-300: #E6E5E6;
   --uicolor-light-400: #CBC8CB;
   --uicolor-gradient-sunrise: linear-gradient(286.78deg, #634B86 10.94%, #314081 129.96%), #FFFFFF;
-  --uicolor-gradient-sunnymorning: linear-gradient(120deg, #E1BB89 13.4%, #D89CB0 44.66%, #AB88BE 64.87%, #7D7BD1 86.6%);;
+  --uicolor-gradient-sunnymorning: linear-gradient(120deg, #E1BB89 13.4%, #D89CB0 44.66%, #AB88BE 64.87%, #7D7BD1 86.6%);
   --uicolor-gradient-purple: linear-gradient(126.63deg, #2C2297 0%, #4E1A82 99.34%);
-  --uicolor-gradient-colorpop: linear-gradient(286.78deg, #8669B0 10.94%, #475BB4 129.96%), #FFFFFF;
+  --uicolor-gradient-colorpop: linear-gradient(265.91deg, #876AB3 8.58%, #5568BC 93.33%);
   --uicolor-gradient-black: linear-gradient(180deg, #00000027 0%, #00000099 100%);
 }

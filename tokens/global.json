@@ -611,15 +611,15 @@
     },
     "gradient": {
       "purple": {
-        "value": "linear-gradient(286.78deg, #B08CE5 10.94%, #6D86F4 129.96%), #FFFFFF",
+        "value": "linear-gradient(265.91deg, #B08CE5 8.58%, #6D86F4 93.33%)",
         "type": "color"
       },
       "sunnymorning": {
-        "value": "linear-gradient(286.78deg, #997AC8 10.94%, #5369CA 129.96%), #FFFFFF",
+        "value": "linear-gradient(265.91deg, #9E7DCE 8.58%, #697FE2 93.33%)",
         "type": "color"
       },
       "colorpop": {
-        "value": "linear-gradient(286.78deg, #8669B0 10.94%, #475BB4 129.96%), #FFFFFF",
+        "value": "linear-gradient(265.91deg, #876AB3 8.58%, #5568BC 93.33%)",
         "type": "color"
       },
       "sunrise": {

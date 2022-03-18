@@ -90,15 +90,15 @@
   "interaction": {
     "primary": {
       "initial": {
-        "value": "#5246C2",
+        "value": "linear-gradient(265.91deg, #B08CE5 8.58%, #6D86F4 93.33%)",
         "type": "color"
       },
       "hover": {
-        "value": "#4A3DBC",
+        "value": "linear-gradient(265.91deg, #9E7DCE 8.58%, #697FE2 93.33%)",
         "type": "color"
       },
       "pressed": {
-        "value": "#453AB0",
+        "value": "linear-gradient(265.91deg, #876AB3 8.58%, #5568BC 93.33%)",
         "type": "color"
       },
       "disabled": {
@@ -204,7 +204,7 @@
         "type": "color"
       },
       "sunnymorning": {
-        "value": "linear-gradient(120deg, #E1BB89 13.4%, #D89CB0 44.66%, #AB88BE 64.87%, #7D7BD1 86.6%);",
+        "value": "linear-gradient(120deg, #E1BB89 13.4%, #D89CB0 44.66%, #AB88BE 64.87%, #7D7BD1 86.6%)",
         "type": "color"
       },
       "purple": {
@@ -212,7 +212,7 @@
         "type": "color"
       },
       "colorpop": {
-        "value": "linear-gradient(286.78deg, #8669B0 10.94%, #475BB4 129.96%), #FFFFFF",
+        "value": "linear-gradient(265.91deg, #876AB3 8.58%, #5568BC 93.33%)",
         "type": "color"
       },
       "black": {
