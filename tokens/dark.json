@@ -218,6 +218,10 @@
       "black": {
         "value": "linear-gradient(180deg, #00000027 0%, #00000099 100%)",
         "type": "color"
+      },
+      "telekom": {
+        "value": "linear-gradient(106.39deg, #CF2C73 0%, #CF2C7A 100%)",
+        "type": "color"
       }
     }
   }

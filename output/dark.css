@@ -45,4 +45,5 @@
   --uicolor-gradient-purple: linear-gradient(104.02deg, #3F34B4 8.76%, #4C2EA3 91.24%);
   --uicolor-gradient-colorpop: linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%);
   --uicolor-gradient-black: linear-gradient(180deg, #00000027 0%, #00000099 100%);
+  --uicolor-gradient-telekom: linear-gradient(106.39deg, #CF2C73 0%, #CF2C7A 100%);
 }

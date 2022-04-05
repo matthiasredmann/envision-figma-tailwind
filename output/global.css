@@ -131,6 +131,7 @@
   --colors-gradient-colorpop: linear-gradient(152deg, #f5e6b8 0%, #ffce70 27%, #eba06a 52%, #c084ef 79%, #8eadfe 100%);
   --colors-gradient-sunrise: linear-gradient(180deg, #032447 17.56%, #594F62 53.8%, #FFADAB 100%);
   --colors-gradient-black: linear-gradient(180deg, #00000027 0%, #00000099 100%);
+  --colors-gradient-telekom: linear-gradient(106.39deg, #CF2C73 0%, #CF2C7A 100%);
   --elevation-sm: [object Object];
   --elevation-md: [object Object];
   --elevation-lg: [object Object];
