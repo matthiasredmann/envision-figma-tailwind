@@ -37,15 +37,15 @@
   },
   "accent": {
     "100": {
-      "value": "#5D51C6",
+      "value": "#6d62cc",
       "type": "color"
     },
     "200": {
-      "value": "#5246C2",
+      "value": "#5d51c6",
       "type": "color"
     },
     "300": {
-      "value": "#4A3DBC",
+      "value": "#5449b2",
       "type": "color"
     }
   },
