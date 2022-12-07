@@ -309,6 +309,16 @@
           "fontSize": "24px"
         },
         "type": "typography"
+      },
+      "level06": {
+        "value": {
+          "fontFamily": "Suisse Int'l",
+          "fontWeight": "Bold",
+          "lineHeight": "20px",
+          "fontSize": "20px",
+          "letterSpacing": "-2%"
+        },
+        "type": "typography"
       }
     },
     "bodytext": {
